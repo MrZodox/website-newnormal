@@ -1,3 +1,3 @@
 # website-newnormal
 
-minimal kompleks terstruktur rapi 
+Jangan lupa makan & minum. 
